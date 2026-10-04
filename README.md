@@ -28,3 +28,4 @@ ___Note___: only add it for development builds of your app.
     - this also widens compatibility for non rocket projects
 - inject reload script automatically
 - properly kill cargo watch process as it sometimes leaves a stray process behind which then block the port :3000
+- custom host and port
